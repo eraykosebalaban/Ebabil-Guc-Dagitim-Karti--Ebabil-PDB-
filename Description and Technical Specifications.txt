@@ -1,0 +1,13 @@
+Ebabil Drone Takımı olarak tasarımı ve analizleri tarafımıza ait olan
+Ebabil Güç Dağıtım Kartı (Ebabil PDB), dört motorlu döner kanat insansız
+hava araçları için geliştirilmiştir. 2S-10S LiPo giriş gerilimine sahip
+olan bu güç dağıtım kartı 180A sürekli, 200A maksimum akım kapasitesine
+sahiptir. Pixhawk 4 uçuş kontrolcüsüne uyumlu olarak tasarlanan Ebabil 
+Güç Dağıtım Kartı RC Alıcılar,OSD'ler ve servo motorlar için dahili 
+olarak 5V BEC devresi de içermektedir.
+
+TEKNİK ÖZELLİKLER:
+-Giriş gerilimi: 7V-40V (2S-10S LiPo)
+-Çıkış Akımı: 180A Sürekli, 200A Maksimum
+-BEC Çıkış: 5V / 3A
+-Boyutlar:65mm x 50mm x 8mm
